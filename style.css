@@ -1,0 +1,13 @@
+button {
+    background-color: rgb(89, 89, 99);
+    width: 170px;
+}
+
+#message {
+    display: none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+}
