@@ -38,3 +38,7 @@ function Login() {
         alert('Login Succesfully!');
     }
 }
+
+function Exit() {
+    
+}
