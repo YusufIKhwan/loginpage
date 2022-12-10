@@ -17,7 +17,7 @@ function Login() {
 		alert("Please enter a username.");
 	}
     else if (user.length<6) {
-		alert("Username atleat 6 or more character");
+		alert("Username atleaSt 6 or more character");
 	}
 
     else if (!UppercaseReq.test(pass)) {
